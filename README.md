@@ -9,9 +9,8 @@ Shift as well as the Polybius Square and the Substitution Cipher.
 * Javascript
 
 #
-## SCREENSHOTS
+## THE CIPHERS
 
-#
 ## Caesar Shift
 * Caesar shift encode takes the message and a given number and moves the letter of the alphabet that many spaces forwards or backwards depending on if it is encoding or decoding respectively. If the number is larger than the alphabet the alphabet will continue to loop.
 
